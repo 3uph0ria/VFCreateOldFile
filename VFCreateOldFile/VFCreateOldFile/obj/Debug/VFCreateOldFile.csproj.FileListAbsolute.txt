@@ -1,0 +1,7 @@
+D:\Git\VFCreateOldFile\VFCreateOldFile\VFCreateOldFile\bin\Debug\VFCreateOldFile.exe.config
+D:\Git\VFCreateOldFile\VFCreateOldFile\VFCreateOldFile\bin\Debug\VFCreateOldFile.exe
+D:\Git\VFCreateOldFile\VFCreateOldFile\VFCreateOldFile\bin\Debug\VFCreateOldFile.pdb
+D:\Git\VFCreateOldFile\VFCreateOldFile\VFCreateOldFile\obj\Debug\VFCreateOldFile.csprojAssemblyReference.cache
+D:\Git\VFCreateOldFile\VFCreateOldFile\VFCreateOldFile\obj\Debug\VFCreateOldFile.csproj.CoreCompileInputs.cache
+D:\Git\VFCreateOldFile\VFCreateOldFile\VFCreateOldFile\obj\Debug\VFCreateOldFile.exe
+D:\Git\VFCreateOldFile\VFCreateOldFile\VFCreateOldFile\obj\Debug\VFCreateOldFile.pdb
